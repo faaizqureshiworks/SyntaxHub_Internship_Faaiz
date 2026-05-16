@@ -1,0 +1,22 @@
+{
+    "1": {
+        "student_id": "1",
+        "name": "Faaiz Ali",
+        "grade": "A+"
+    },
+    "2": {
+        "student_id": "2",
+        "name": "David",
+        "grade": "B"
+    },
+    "3": {
+        "student_id": "3",
+        "name": "Johnny",
+        "grade": "B"
+    },
+    "4": {
+        "student_id": "4",
+        "name": "Gull",
+        "grade": "A"
+    }
+}
